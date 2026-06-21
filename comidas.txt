@@ -8,3 +8,6 @@ alface
 git status
 [A[3~[3~[3~[F[F[B[B[C[C[C[C[C[C[C[A[A[A[3~[3~[A[C[C[C[C
 [A[A[F[B[C[F[C[C[C[C[B[C[C[C[D
+cubos
+moida
+frango
